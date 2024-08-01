@@ -68,7 +68,7 @@ section.imagem{
 
 #img1{
     background-image: url('imagem/img1.jpg');
-    background-position:center;
+    background-position:left;
     background-size: cover;
     
 }
