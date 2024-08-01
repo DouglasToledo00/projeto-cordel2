@@ -87,7 +87,7 @@ section.imagem > p{
 
 #img2{
     background-image: url('imagem/img2.jpg');
-    background-position: top center;
+    background-position:center;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right left;
